@@ -1,0 +1,12 @@
+2019-11-23T12:48:43.566+0800	info	[log]初始化成功
+2019-11-23T12:48:43.567+0800	info	success	{"status": "[config]读配置文件成功！"}
+2019-11-23T12:48:46.949+0800	info	success	{"status": "[getPM25]获取数据成功"}
+2019-11-23T12:48:48.523+0800	info	success	{"status": "[sendEmail]给<924370970@qq.com>的提醒邮件发送成功"}
+2019-11-23T13:28:26.905+0800	info	[log]初始化成功
+2019-11-23T13:28:26.924+0800	info	success	{"status": "[config]读配置文件成功"}
+2019-11-23T13:28:33.709+0800	info	success	{"status": "[getPM25]获取数据成功"}
+2019-11-23T13:28:35.225+0800	info	success	{"status": "[sendEmail]给<1146758989@qq.com>的提醒邮件发送成功"}
+2019-11-23T13:40:39.019+0800	info	[log]初始化成功
+2019-11-23T13:40:39.021+0800	info	success	{"status": "[config]读配置文件成功"}
+2019-11-23T13:40:41.823+0800	info	success	{"status": "[getPM25]获取数据成功"}
+2019-11-23T13:40:43.481+0800	info	success	{"status": "[sendEmail]给<1146758989@qq.com>的提醒邮件发送成功"}
