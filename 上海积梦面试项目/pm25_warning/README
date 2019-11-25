@@ -1,3 +1,6 @@
+题目：
+使用golang语言，通过调用 https://aqicn.org/json-api/doc/ 提供的接口，判断空气质量（pm2.5）大于50，发报警通知到telegram的一个channel或者发报警到自己的邮箱。
+
 go version 1.13
 go mod开发模式
 
